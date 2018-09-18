@@ -86,7 +86,9 @@ export default {
 
 .b-talk__title-text {
   color: #000;
-  padding: 0 20px;
+  padding: 10px 20px;
+  font-size: 1.4em;
+  font-weight: bold;
 }
 
 .b-talk__title-link:hover {
